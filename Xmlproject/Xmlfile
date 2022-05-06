@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DE-1 SYSTEM "file:///C:/Users/acer/Downloads/DTD%20TMP.dtd">
+<DE-1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/acer/Downloads/XSD%20%20TEMP.xsd">
+<S1>
+<P1>
+<MATIERE>
+<INTITULE>LANGAGE DE PROGRAMMATION C</INTITULE>
+<PROF>Mme.Benomar</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>Lundi</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>27.JANVIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>ALGEBRE POUR DATA</INTITULE>
+<PROF>Mme karima elkimakh</PROF>
+<volume_horaire_prévu>20</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>mercredi</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>28.janvier</date_exam>
+<nature_d_examen>QCM ET PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>SYSTEME D 'EXPLOITATION</INTITULE>
+<PROF>Mr hicham laanaya</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>VENDREDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>30 JANVIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>RECHERCHE OPERATINNELLE</INTITULE>
+<PROF>EXTERNE</PROF>
+<volume_horaire_prévu>16</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>MARDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>29.janvier</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>CONDUITE DE PROJET</INTITULE>
+<PROF></PROF>
+<volume_horaire_prévu>10</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>VENDREDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam></date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>ELECTRONIQUE NUMERIQUE</INTITULE>
+<PROF>Mme kaoutar Bousselam</PROF>
+<volume_horaire_prévu>16</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>JEUDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam></date_exam>
+<nature_d_examen>QCM ET PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>ANGLAIS</INTITULE>
+<PROF>PR.HICHAM BARAKAT</PROF>
+<volume_horaire_prévu>12</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>JEUDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam></date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>TEC</INTITULE>
+<PROF>Mme tounsi karima</PROF>
+<volume_horaire_prévu>12</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>LUNDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam></date_exam>
+<nature_d_examen>PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+</P1>
+<P2>
+<MATIERE>
+<INTITULE>ANALYSE_NUMÉRIQUE_ET_OPTIMISATION</INTITULE>
+<PROF>mR RAHALI</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>JEUDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>15 FEVERIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>PROGRAMMATION JAVA</INTITULE>
+<PROF>Mme BENOMAR</PROF>
+<volume_horaire_prévu>20</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>LUNDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>16 FEVRIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>THEORIE DE PROBABILITES</INTITULE>
+<PROF>MR FIKRI</PROF>
+<volume_horaire_prévu>20</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>MARDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>18 FEVRIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>TRAITEMENT DE SIGNAL</INTITULE>
+<PROF></PROF>
+<volume_horaire_prévu>16</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>VENDREDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>18 FEVRIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>THEORIE D INFORMATION</INTITULE>
+<PROF></PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>JEUDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>22.FEVRIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>Réseaux Informatiques</INTITULE>
+<PROF>EXTERNE</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>MERCREDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>19 FEVRIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE> Architecture des ordinateurs et microcontrôleurs</INTITULE>
+<PROF>Mr jJAMAL KHALLAAYOUNE</PROF>
+<volume_horaire_prévu>16</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>19 FEVRIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE> Rôle et déontologie de l’ingénieur</INTITULE>
+<PROF>Mr laghrissi</PROF>
+<volume_horaire_prévu>20</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>VENDREDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>20 FEVERIER</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE> ANGLAIS</INTITULE>
+<PROF>Mr barakkat</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>JEUDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>21 FEVRIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE> TEC</INTITULE>
+<PROF>Mme k.Tounsi</PROF>
+<volume_horaire_prévu>12</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours><JOUR>LUNDI</JOUR>
+  <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>21 FEVRIER</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+</P2>
+</S1>
+<S2>
+<P1>
+<MATIERE>
+<INTITULE>Programmation_python</INTITULE>
+<PROF>AMINE BAINA</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MERCREDI</JOUR>
+    <HEURE>DE 15h00 à 17h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>19 AVRIL</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>INGÉNIERIE_DES_SYSTÈMES_DEXPLOITATION</INTITULE>
+<PROF>AOUAD SIHAM</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MERCREDI</JOUR>
+    <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>20 AVRIL</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+
+
+<MATIERE>
+<INTITULE>BASES_DE_DONNÉES_RELATIONNELLES</INTITULE>
+<PROF>MUSTAFA BELLAFKIH</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MARDI</JOUR>
+    <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>21 AVRIL</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>THÉORIE_DES_LANGAGES_ET_COMPILATION</INTITULE>
+<PROF>EXTERNE</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>LUNDI</JOUR>
+    <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>23 AVRIL</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>STATISTIQUE_APPLIQUÉE</INTITULE>
+<PROF>MOHAMMED FEKRI</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MARDI</JOUR>
+    <HEURE>DE 15h00 à 17h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>21 AVRIL</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>TEC</INTITULE>
+<PROF>K.TOUNSI</PROF>
+<volume_horaire_prévu>9</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>LUNDI</JOUR>
+    <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>23 AVRIL</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>ANGLAIS</INTITULE>
+<PROF>HICHAM BARRAKAT</PROF>
+<volume_horaire_prévu>10</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>JEUDI</JOUR>
+    <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>23 AVRIL</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+
+</P1>
+<P2>
+<MATIERE>
+<INTITULE>ADMINISTRATION_DES_SYSTÈMES</INTITULE>
+<PROF>AIT.MANSOUR.ASMAE</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>LUNDI</JOUR>
+    <HEURE>DE 9h00 à 11H00</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>28.JUIN</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>BASES_DE_DONNÉES_SEMI_STRUCTURÉES</INTITULE>
+<PROF>Pr. M. DAHCHOUR</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MERCREDI</JOUR>
+  <HEURE>DE 9h00 à 12h30</HEURE>
+  </les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>5 JUILLET</date_exam>
+<nature_d_examen>PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+ <MATIERE> 
+ <INTITULE>DIAGNOSTIC_FINANCIER_DE_LENTREPRISE</INTITULE>
+<PROF>EXTERNE</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MERCREDI</JOUR>
+    <HEURE>DE 14h00 à 17H00</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>4.JUILLET</date_exam>
+<nature_d_examen>PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+
+<MATIERE>
+<INTITULE>INFORMATIQUE_THÉORIQUE</INTITULE>
+<PROF>KAMAL IDRISSI HAMZA</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>MARDI</JOUR>
+    <HEURE>DE 9h00 à 10H00</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>29 JUIN</date_exam>
+<nature_d_examen>QCM</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>MODÉLISATION_STOCHASTIQUE</INTITULE>
+<PROF>EXTERNE</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>VENDREDI</JOUR>
+    <HEURE>DE 9h00 à 12h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>29 JUIN</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>NTRODUCTION_AUX_RÉSEAUX_TÉLÉCOMS_ET_RÉSEAUX_DEN</INTITULE>
+<PROF>OUDAH AAFAF</PROF>
+<volume_horaire_prévu>18</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>JEUDI</JOUR>
+    <HEURE>DE 9h00 à 12H00</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>2 JUILLET</date_exam>
+<nature_d_examen>PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé>
+</MATIERE>
+<MATIERE>
+<INTITULE>TEC</INTITULE>
+<PROF>Pr. K TOUNSI</PROF>
+<volume_horaire_prévu>9</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>LUNDI</JOUR>
+    <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>3 JUILLET</date_exam>
+<nature_d_examen>PROJET</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+<MATIERE>
+<INTITULE>ANGLAIS</INTITULE>
+<PROF>BARAKAT HICHAM</PROF>
+<volume_horaire_prévu>10</volume_horaire_prévu>
+<les_créneaux_horaires_dune_séance_de_cours>
+<JOUR>JEUDII</JOUR>
+    <HEURE>DE 14h00 à 15h30</HEURE></les_créneaux_horaires_dune_séance_de_cours>
+<date_exam>29 JUILLET</date_exam>
+<nature_d_examen>DEVOIR</nature_d_examen>
+<outil_de_visioconférence_utilisé>BBB</outil_de_visioconférence_utilisé></MATIERE>
+
+
+</P2>
+</S2>
+</DE-1>

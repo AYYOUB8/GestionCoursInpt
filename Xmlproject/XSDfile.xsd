@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="DE-1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="S1"/>
+        <xs:element ref="S2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="S1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="P1"/>
+        <xs:element ref="P2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="P1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="MATIERE" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MATIERE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="INTITULE" type="xs:string"/>
+        <xs:element name="PROF" type="xs:string"/>
+        <xs:element name="volume_horaire_prévu" type="xs:string"/>
+        <xs:element ref="les_créneaux_horaires_dune_séance_de_cours"/>
+        <xs:element name="date_exam" type="xs:string"/>
+        <xs:element name="nature_d_examen" type="xs:string"/>
+        <xs:element name="outil_de_visioconférence_utilisé" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="les_créneaux_horaires_dune_séance_de_cours">
+    <xs:complexType>
+      <xs:sequence minOccurs="0">
+        <xs:element name="JOUR" type="xs:string"/>
+        <xs:element name="HEURE" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="P2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="MATIERE" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="S2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="P1"/>
+        <xs:element ref="P2"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

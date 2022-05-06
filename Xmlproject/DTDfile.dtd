@@ -1,0 +1,15 @@
+<!ELEMENT DE-1 (S1, S2)>
+<!ELEMENT S1 (P1, P2)>
+<!ELEMENT P1 (MATIERE+)>
+<!ELEMENT MATIERE (INTITULE, PROF, volume_horaire_prévu, les_créneaux_horaires_dune_séance_de_cours, date_exam, nature_d_examen, outil_de_visioconférence_utilisé)>
+<!ELEMENT INTITULE (#PCDATA)>
+<!ELEMENT PROF (#PCDATA)>
+<!ELEMENT volume_horaire_prévu (#PCDATA)>
+<!ELEMENT les_créneaux_horaires_dune_séance_de_cours (JOUR?, HEURE?)>
+<!ELEMENT JOUR (#PCDATA)>
+<!ELEMENT HEURE (#PCDATA)>
+<!ELEMENT date_exam (#PCDATA)>
+<!ELEMENT nature_d_examen (#PCDATA)>
+<!ELEMENT outil_de_visioconférence_utilisé (#PCDATA)>
+<!ELEMENT P2 (MATIERE+)>
+<!ELEMENT S2 (P1, P2)>
